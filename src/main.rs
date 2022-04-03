@@ -8,7 +8,6 @@ fn main() {
     let mut verbose = false;
     let mut dir = "songs".to_string();
     let mut volume = 3.0;
-    let name = "ogg".to_string();
     let mut song_name = "".to_string();
 
     
